@@ -4,7 +4,7 @@ Welcome to the A5-Algo repository! This repository is dedicated to Algorithmics 
 ## Members
 The A5-Algo class is comprised of the following members:
 
-Saba (creator of ComeGetMe Series)
+Saba (creator of ComeGetMe Series and Star Trekker)
 
 Luka (Creator of Planet Saver)
 
