@@ -5,14 +5,22 @@ Welcome to the A5-Algo repository! This repository is dedicated to Algorithmics 
 The A5-Algo class is comprised of the following members:
 
 Saba (creator of ComeGetMe Series)
+
 Luka (Creator of Planet Saver)
+
 Max (Creator of Adofie)
+
 Sofo (Creator of F1 Racer)
+
 Elene (creator of 4rowed tictac)
+
 Sandro (Creator of Snake Game)
+
 Gio (Creator of Advanced Maze)
+
 Andria (Creator of Bomb Defuser)
-Repository Information
+
+## Repository Information
 This repository is dedicated to storing our class projects and assignments. We do not allow anyone else to contribute to this repository.
 
 ## Contact Us
